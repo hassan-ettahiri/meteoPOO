@@ -1,7 +1,3 @@
-//
-// Created by ouchraa on 11/19/22.
-//
-
 #include "Statistique.h"
 #include "StationMeteo.h"
 #include <iostream>
