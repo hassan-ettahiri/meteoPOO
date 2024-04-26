@@ -1,7 +1,3 @@
-//
-// Created by ouchraa on 11/19/22.
-//
-
 #include "Affichage_Donnee.h"
 #include <iostream>
 #include<time.h>
